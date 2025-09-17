@@ -26,7 +26,7 @@ const Navbar = () => {
                 className="text-2xl font-extrabold text-gray-800 flex items-center gap-2 hover:text-amber-600 transition"
             >
                 <ContactRound  size={26} />
-                Portfolio Wisnu Arif
+                Portfolio
             </Motion.a>
 
             {/* Desktop Menu */}
